@@ -13,18 +13,7 @@ Dependencies/Requirements → TMO Core is Required for this to work. ServerSide 
 Fully Overrides the Gamestages.XML to ensure Maximum Efficiency. 
 
 Initial Hordes may take 24 Hours to Spawn as its some weirdness the game does.
-﻿﻿Configuration Example:  (I preset this for my liking, if you delete it however, the values will be less).
 
-# <WanderingHordesPLUS>
-#  <!-- Minimum zombies per wandering horde -->
-#  <MinZombies>15</MinZombies>
-#  <!-- Maximum zombies per wandering horde -->
-#  <MaxZombies>25</MaxZombies>
-#  <!-- Minimum in-game hours between hordes -->
-#  <MinHours>4</MinHours>
-#  <!-- Maximum in-game hours between hordes -->
-#  <MaxHours>8</MaxHours>
-# </WanderingHordesPLUS>
 
 (Caution, a maximum number that is too high can seriously impact server performance. I tested as high as 59 zombies, and had no issues. Not all Server Hosts are Created Equally, and not all PCs are either.) 
 
